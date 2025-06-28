@@ -1,0 +1,3 @@
+allowed-commands:
+  - msg
+blocked-message: "Dieser Befehl ist deaktiviert."
